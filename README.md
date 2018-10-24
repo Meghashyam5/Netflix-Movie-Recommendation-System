@@ -26,7 +26,7 @@ SVD Decomposition : https://www.youtube.com/watch?v=P5mlg91as1c
 
 Objectives:
 
-Predict the rating that a user would give to a movie that he ahs not yet rated.
+Predict the rating that a user would give to a movie that he has not yet rated.
 Minimize the difference between predicted and actual rating (RMSE and MAPE) 
 
 Constraints:
